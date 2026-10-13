@@ -1,0 +1,9 @@
+{
+  "name": "portrait-gaze-skill",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Browser checks for the Portrait Gaze Agent Skill",
+  "license": "MIT",
+  "scripts": {"test:browser": "node tests/browser.cjs"},
+  "devDependencies": {"playwright": "1.62.1"}
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "肖像眼神跟随"
+  short_description: "制作眼睛随鼠标或手指转动的人物肖像，交付可直接打开的网页"
+  default_prompt: "使用 $portrait-gaze 制作一个有眼神跟随功能的人物肖像，并展示可运行的网页。"
